@@ -5,3 +5,9 @@ function cutName(name) {
  return name.split(" ");
 }
 
+// it worked!! easy part
+
+var myInfo =  {};
+myInfo.fullName = myArray[0].split(" ");
+myInfo.github = ("Scaarss1");
+myInfo.favoriteColor = ("Blue")
