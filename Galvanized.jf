@@ -21,6 +21,17 @@ myArray = ["Eric Mayer" , "Light Blue"];
 <!--
 Next, declare a function named cutName. It should expect a parameter name.
 cutName should return an array by breaking up the input string into individual words.
+
+<!--
+var myArray = new Array();
+
+myArray[0] = "Football";
+myArray[1] = "Baseball";
+myArray[2] = "Cricket";
+
+document.write(myArray[0] + myArray[1] + myArray[2]);
+//-->
+
 Example: cutName("Douglas Crockford") should return ["Douglas", "Crockford"]
 Example: cutName("John B. Smith") should return ["John", "B.", "Smith"]
 Declare a new variable named myInfo and assign it to an empty object literal.
