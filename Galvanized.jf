@@ -1,0 +1,10 @@
+Javascript into galvanized
+
+var myArray = [];
+myArray = ["Eric Mayer" , "Light Blue"];
+function cutName(name){
+  var fname = name;
+  return fname;
+}
+
+name = (cutname("Eric Mayer"));
