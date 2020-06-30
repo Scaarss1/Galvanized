@@ -11,8 +11,10 @@ Your mom ate buckets of chicken but since this is a multiline comment nobody kno
 //-->
 
 
-
+// Here I am setting my array
 var myArray = [];
+
+// Here I am putting values into the array
 myArray = ["Eric Mayer" , "Light Blue"];
 function cutName(name){
   var fname = name;
