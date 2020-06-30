@@ -3,6 +3,9 @@
 
 document.write("I have comments in my JavaScript code!");
 //document.write("You can't see this!");
+
+
+<!--
 Your mom ate buckets of chicken but since this is a multiline comment nobody knows...
 
 //-->
