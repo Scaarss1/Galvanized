@@ -11,10 +11,11 @@ Your mom ate buckets of chicken but since this is a multiline comment nobody kno
 //-->
 
 
-// Here I am setting my array
+// First, declare a variable named myArray and assign it to an empty array.
 var myArray = [];
 
-// Here I am putting values into the array
+// Now populate myArray with two strings:
+// Put your full name in the first string, and your favorite color in the second.
 myArray = ["Eric Mayer" , "Light Blue"];
 function cutName(name){
   var fname = name;
