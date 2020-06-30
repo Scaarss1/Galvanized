@@ -1,4 +1,13 @@
-Javascript into galvanized
+// This is a single line JavaScript comment
+// Javascript into galvanized
+
+document.write("I have comments in my JavaScript code!");
+//document.write("You can't see this!");
+Your mom ate buckets of chicken but since this is a multiline comment nobody knows...
+
+//-->
+
+
 
 var myArray = [];
 myArray = ["Eric Mayer" , "Light Blue"];
